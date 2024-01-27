@@ -1,4 +1,4 @@
 # PranjaliGupta
 Practice Questions 
 <br>
-Author - Pranjali Gupta
+Author - Pranjali Gupta(intern)
